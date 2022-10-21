@@ -3,7 +3,7 @@
 // Mini Challenge 6 Odd Or Even Endpoint
 // The program will prompt the user to enter a number and it will output
 // whether the number is odd or even. Add data validation and replay option.
-// Peer Reviewed By:
+// Peer Reviewed By: Andrea Burr
 
 Console.Clear();
 
