@@ -1,15 +1,30 @@
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\bin\Debug\net6.0\AguilarFMiniChallenge6.exe
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\bin\Debug\net6.0\AguilarFMiniChallenge6.deps.json
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\bin\Debug\net6.0\AguilarFMiniChallenge6.runtimeconfig.json
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\bin\Debug\net6.0\AguilarFMiniChallenge6.dll
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\bin\Debug\net6.0\AguilarFMiniChallenge6.pdb
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.csproj.AssemblyReference.cache
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.AssemblyInfoInputs.cache
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.AssemblyInfo.cs
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.csproj.CoreCompileInputs.cache
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.dll
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\refint\AguilarFMiniChallenge6.dll
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.pdb
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\AguilarFMiniChallenge6.genruntimeconfig.cache
-C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge6\obj\Debug\net6.0\ref\AguilarFMiniChallenge6.dll
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.exe
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.deps.json
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.runtimeconfig.json
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.dll
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.pdb
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.csproj.AssemblyReference.cache
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.AssemblyInfoInputs.cache
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.AssemblyInfo.cs
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.csproj.CoreCompileInputs.cache
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.dll
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/refint/AguilarFMiniChallenge6.dll
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.pdb
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.genruntimeconfig.cache
+C:/Users/ferna/OneDrive/Documents/GitRepository/AguilarFMiniChallenge6/obj/Debug/net6.0/ref/AguilarFMiniChallenge6.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.deps.json
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.runtimeconfig.json
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/bin/Debug/net6.0/AguilarFMiniChallenge6.pdb
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.csproj.AssemblyReference.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.AssemblyInfoInputs.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.AssemblyInfo.cs
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.csproj.CoreCompileInputs.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/refint/AguilarFMiniChallenge6.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.pdb
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/AguilarFMiniChallenge6.genruntimeconfig.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/AguilarFMiniChallenge6/obj/Debug/net6.0/ref/AguilarFMiniChallenge6.dll
